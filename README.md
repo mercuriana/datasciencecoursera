@@ -1,2 +1,2 @@
 # datasciencecoursera
-Here is where my Coursera Data Science projects go
+This is a repository created for the first Coursera's assignment. 
